@@ -1,4 +1,4 @@
-# DeporPartido 🔵⚪
+# Cando xoga o Depor 🔵⚪
 
 App Android sinxela que amosa o próximo partido do RC Deportivo da Coruña ao pulsar o icono.
 
