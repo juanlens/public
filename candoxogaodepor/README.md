@@ -2,13 +2,10 @@
 
 App Android sinxela que amosa o próximo partido do RC Deportivo da Coruña ao pulsar o icono.
 
-## Como abrir en Android Studio
+## Como abrir a app
 
-1. Descarga e descomprime o ZIP
-2. Abre **Android Studio** → "Open an Existing Project"
-3. Selecciona a carpeta `DeporPartido`
-4. Espera a que Gradle sincronice (~1 min)
-5. Pulsa ▶ Run (ou Shift+F10) para instalar no teu móbil
+1. Habilita a instalación desde fontes descoñecidas
+2. Descarga a APK no teu smartphone e instálaa
 
 ## Requisitos
 
